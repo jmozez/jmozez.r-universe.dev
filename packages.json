@@ -26,5 +26,9 @@
   {
     "package": "tidyinvasion",
     "url": "https://github.com/jmozez/tidyinvasion"
+  },
+  {
+    "package": "tidysoilr",
+    "url": "https://github.com/jmozez/tidysoilr"
   }
 ]
