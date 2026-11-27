@@ -18,5 +18,9 @@
   {
     "package": "tidybiotek",
     "url": "https://github.com/jmozez/tidybiotek"
+  },
+  {
+    "package": "tidysynthesis",
+    "url": "https://github.com/jmozez/tidysynthesis"
   }
 ]
