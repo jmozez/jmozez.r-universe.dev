@@ -6,5 +6,17 @@
   {
     "package": "tidymapr",
     "url": "https://github.com/jmozez/tidymapr"
+  },
+  {
+    "package": "tidyvisor",
+    "url": "https://github.com/jmozez/tidyvisor"
+  },
+  {
+    "package": "tidyepidemio",
+    "url": "https://github.com/jmozez/tidyepidemio"
+  },
+  {
+    "package": "tidybiotek",
+    "url": "https://github.com/jmozez/tidybiotek"
   }
 ]
