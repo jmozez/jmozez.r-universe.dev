@@ -22,5 +22,9 @@
   {
     "package": "tidysynthesis",
     "url": "https://github.com/jmozez/tidysynthesis"
+  },
+  {
+    "package": "tidyinvasion",
+    "url": "https://github.com/jmozez/tidyinvasion"
   }
 ]
